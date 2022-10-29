@@ -45,20 +45,19 @@
     font-weight: bold;
     color: #FFFFFF;
 }
-.blue{
-    color: #5863F8;
-}
 .nav-li {
     display: flex;
     justify-content: space-between;
     font-family: 'Poppins';
     font-size: 12px;
     font-weight: 600;
+    color: white;
+}
+.white-color {
     color: #FFFFFF;
 }
 .nav {
     max-width: 564px;
-    height: 42px;
     width: 100%;
 }
 .text-block {
