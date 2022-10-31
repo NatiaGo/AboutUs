@@ -459,6 +459,8 @@
     line-height: 21px;
     color: #B1B1B1;
     margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .useful-link h2 {
     color: #FFFFFF;
